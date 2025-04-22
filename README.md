@@ -4,28 +4,6 @@ This project is a robust **Test Automation Framework** built using **Selenium We
 
 ---
 
-##  Project Structure
-
-SwagLabs/
-├── Configuration/
-│   └── config.properties         # Configuration for environment, browser, credentials
-├── Logs/
-│   └── application.log           # Execution logs
-├── Reports/
-│   └── ExtentReports.html        # Beautiful HTML reports
-├── Screenshots/
-│   └── *.png                     # Screenshots on test failure
-├── src/
-│   └── com.swaglabs/
-│       ├── base/                 # Base classes
-│       ├── pageobject/           # Page classes following POM
-│       ├── testcases/            # TestNG Test Classes
-│       └── utilities/            # Utilities (Excel, Config, Listeners)
-├── TestData/
-│   └── SwagLabsTestData.xlsx     # Test data for data-driven tests
-└── README.md                     # Project documentation
-
----
 
 ##  Technologies Used
 
