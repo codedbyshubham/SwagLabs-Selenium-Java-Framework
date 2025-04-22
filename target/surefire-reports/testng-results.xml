@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-21T21:55:59 IST" name="Suite" finished-at="2025-04-21T21:56:31 IST" duration-ms="31205">
+    <groups>
+    </groups>
+    <test started-at="2025-04-21T21:55:59 IST" name="Test" finished-at="2025-04-21T21:56:31 IST" duration-ms="31205">
+      <class name="com.swaglabs.testcases.TC_ProductOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.testcases.TC_ProductOrderTest@43bc63a3]" started-at="2025-04-21T21:56:23 IST" name="setup" finished-at="2025-04-21T21:56:25 IST" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productOrder(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swaglabs.testcases.TC_ProductOrderTest@43bc63a3]" started-at="2025-04-21T21:56:25 IST" name="productOrder" data-provider="CheckoutInfoTestData" finished-at="2025-04-21T21:56:29 IST" duration-ms="3902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shubham]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Verma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500088]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testcases.TC_ProductOrderTest@43bc63a3]" started-at="2025-04-21T21:56:29 IST" name="tearDown" finished-at="2025-04-21T21:56:31 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testcases.TC_ProductOrderTest -->
+      <class name="com.swaglabs.testcases.TC_LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:00 IST" name="setup" finished-at="2025-04-21T21:56:05 IST" duration-ms="4942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:06 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-04-21T21:56:08 IST" duration-ms="1857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:08 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-04-21T21:56:08 IST" duration-ms="513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:08 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-04-21T21:56:09 IST" duration-ms="649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:09 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-04-21T21:56:15 IST" duration-ms="5632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testcases.TC_LoginPageTest@22555ebf]" started-at="2025-04-21T21:56:15 IST" name="tearDown" finished-at="2025-04-21T21:56:16 IST" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testcases.TC_LoginPageTest -->
+      <class name="com.swaglabs.testcases.TC_InventoryPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.testcases.TC_InventoryPageTest@38425407]" started-at="2025-04-21T21:56:16 IST" name="setup" finished-at="2025-04-21T21:56:18 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="inventoryPage()[pri:0, instance:com.swaglabs.testcases.TC_InventoryPageTest@38425407]" started-at="2025-04-21T21:56:18 IST" name="inventoryPage" finished-at="2025-04-21T21:56:22 IST" duration-ms="4136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventoryPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testcases.TC_InventoryPageTest@38425407]" started-at="2025-04-21T21:56:22 IST" name="tearDown" finished-at="2025-04-21T21:56:23 IST" duration-ms="1333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testcases.TC_InventoryPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,312 @@
+[INFO ] 2025-04-21 21:56:05.177 [main] SwagLabs - Url opened
+[INFO ] 2025-04-21 21:56:06.728 [main] SwagLabs - UserName Entered
+[INFO ] 2025-04-21 21:56:06.862 [main] SwagLabs - Password Entered
+[INFO ] 2025-04-21 21:56:07.805 [main] SwagLabs - Login Button Clicked
+[INFO ] 2025-04-21 21:56:07.819 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-21 21:56:08.525 [main] SwagLabs - UserName Entered
+[INFO ] 2025-04-21 21:56:08.614 [main] SwagLabs - Password Entered
+[INFO ] 2025-04-21 21:56:08.695 [main] SwagLabs - Login Button Clicked
+[INFO ] 2025-04-21 21:56:08.703 [main] SwagLabs - VerifyLogin - Failed
+[INFO ] 2025-04-21 21:56:09.028 [main] SwagLabs - UserName Entered
+[INFO ] 2025-04-21 21:56:09.109 [main] SwagLabs - Password Entered
+[INFO ] 2025-04-21 21:56:09.302 [main] SwagLabs - Login Button Clicked
+[INFO ] 2025-04-21 21:56:09.315 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-21 21:56:09.702 [main] SwagLabs - UserName Entered
+[INFO ] 2025-04-21 21:56:09.780 [main] SwagLabs - Password Entered
+[INFO ] 2025-04-21 21:56:14.940 [main] SwagLabs - Login Button Clicked
+[INFO ] 2025-04-21 21:56:14.952 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-21 21:56:18.343 [main] SwagLabs - Url opened
+[INFO ] 2025-04-21 21:56:18.515 [main] SwagLabs - UserName passed: standard_user
+[INFO ] 2025-04-21 21:56:18.646 [main] SwagLabs - Password passed: secret_sauce
+[INFO ] 2025-04-21 21:56:19.800 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-21 21:56:19.941 [main] SwagLabs - Products are displayed
+[INFO ] 2025-04-21 21:56:20.502 [main] SwagLabs - All Products got Added
+[INFO ] 2025-04-21 21:56:20.535 [main] SwagLabs - Number of Products available in the Page: 6
+[INFO ] 2025-04-21 21:56:20.632 [main] SwagLabs - Number of Items got Added from the Page: 6
+[INFO ] 2025-04-21 21:56:20.863 [main] SwagLabs - Clicked on Shopping Cart Button
+[INFO ] 2025-04-21 21:56:21.332 [main] SwagLabs - All products got removed from Cart
+[INFO ] 2025-04-21 21:56:21.525 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-21 21:56:21.939 [main] SwagLabs - Clicked on Shopping Cart Button
+[INFO ] 2025-04-21 21:56:22.480 [main] SwagLabs - Clicked on Checkout Button
+[INFO ] 2025-04-21 21:56:25.527 [main] SwagLabs - Url opened
+[INFO ] 2025-04-21 21:56:25.943 [main] SwagLabs - UserName passed: standard_user
+[INFO ] 2025-04-21 21:56:26.067 [main] SwagLabs - Password passed: secret_sauce
+[INFO ] 2025-04-21 21:56:26.996 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-21 21:56:27.100 [main] SwagLabs - Products are displayed
+[INFO ] 2025-04-21 21:56:27.432 [main] SwagLabs - Number of Items got Added from the Page: 2
+[INFO ] 2025-04-21 21:56:27.660 [main] SwagLabs - Clicked on Shopping Cart Button
+[INFO ] 2025-04-21 21:56:27.787 [main] SwagLabs - Number of Items availabl in Cart: 1
+[INFO ] 2025-04-21 21:56:27.985 [main] SwagLabs - Clicked on Checkout Button
+[INFO ] 2025-04-21 21:56:28.098 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-21 21:56:28.191 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-21 21:56:28.289 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-21 21:56:28.731 [main] SwagLabs - Clicked on Continue Button
+[INFO ] 2025-04-21 21:56:28.812 [main] SwagLabs - Summary Total of Purchase is: Total: $32.39
+[INFO ] 2025-04-21 21:56:29.612 [main] SwagLabs - Clicked on Finish Button
+[INFO ] 2025-04-21 21:56:29.651 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:10:39.514 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:10:39.605 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:10:39.612 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:10:41.646 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:10:43.022 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:10:43.175 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:10:43.176 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:10:43.856 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:10:43.979 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:10:44.838 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:10:44.986 [main] SwagLabs - Verified all products are displayed.
+[INFO ] 2025-04-22 01:10:45.482 [main] SwagLabs - Added all products to cart.
+[INFO ] 2025-04-22 01:10:45.510 [main] SwagLabs - Total number of products available: 6
+[INFO ] 2025-04-22 01:10:45.561 [main] SwagLabs - Number of items added to cart: 6
+[INFO ] 2025-04-22 01:10:46.021 [main] SwagLabs - Navigated to Shopping Cart.
+[INFO ] 2025-04-22 01:10:46.467 [main] SwagLabs - Removed all products from cart.
+[INFO ] 2025-04-22 01:10:46.755 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-22 01:10:46.935 [main] SwagLabs - Added specific products (Backpack & Fleece Jacket).
+[INFO ] 2025-04-22 01:10:47.105 [main] SwagLabs - Navigated back to Shopping Cart.
+[INFO ] 2025-04-22 01:10:47.196 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:10:47.655 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:10:49.108 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:10:50.500 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:10:50.689 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:10:50.691 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:10:52.554 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:10:52.635 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:10:53.610 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:10:53.753 [main] SwagLabs - Displayed product list.
+[INFO ] 2025-04-22 01:10:54.036 [main] SwagLabs - Number of Items Added to Cart: 2
+[INFO ] 2025-04-22 01:10:54.296 [main] SwagLabs - Navigated to cart.
+[INFO ] 2025-04-22 01:10:54.413 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:10:54.444 [main] SwagLabs - Cart count after removal: 1
+[INFO ] 2025-04-22 01:10:54.684 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:10:54.807 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-22 01:10:54.906 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-22 01:10:55.001 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-22 01:10:55.535 [main] SwagLabs - Clicked continue on checkout page.
+[INFO ] 2025-04-22 01:10:55.654 [main] SwagLabs - Summary Total: Total: $32.39
+[INFO ] 2025-04-22 01:10:56.728 [main] SwagLabs - Finished order.
+[INFO ] 2025-04-22 01:10:56.770 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:10:56.804 [main] SwagLabs - Order completed successfully.
+[INFO ] 2025-04-22 01:10:58.302 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:15:45.137 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:15:45.209 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:15:45.214 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:15:47.017 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:15:48.481 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:15:48.617 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:15:48.618 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:15:49.363 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:15:49.479 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:15:50.272 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:15:50.399 [main] SwagLabs - Verified all products are displayed.
+[INFO ] 2025-04-22 01:15:50.758 [main] SwagLabs - Added all products to cart.
+[INFO ] 2025-04-22 01:15:50.780 [main] SwagLabs - Total number of products available: 6
+[INFO ] 2025-04-22 01:15:50.810 [main] SwagLabs - Number of items added to cart: 6
+[INFO ] 2025-04-22 01:15:51.363 [main] SwagLabs - Navigated to Shopping Cart.
+[INFO ] 2025-04-22 01:15:51.837 [main] SwagLabs - Removed all products from cart.
+[INFO ] 2025-04-22 01:15:52.045 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-22 01:15:52.259 [main] SwagLabs - Added specific products (Backpack & Fleece Jacket).
+[INFO ] 2025-04-22 01:15:52.448 [main] SwagLabs - Navigated back to Shopping Cart.
+[INFO ] 2025-04-22 01:15:52.559 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:15:53.009 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:15:54.410 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:15:55.629 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:15:55.749 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:15:55.749 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:15:57.571 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:15:57.662 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:15:58.747 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:15:58.861 [main] SwagLabs - Displayed product list.
+[INFO ] 2025-04-22 01:15:59.122 [main] SwagLabs - Number of Items Added to Cart: 2
+[INFO ] 2025-04-22 01:15:59.365 [main] SwagLabs - Navigated to cart.
+[INFO ] 2025-04-22 01:15:59.484 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:15:59.512 [main] SwagLabs - Cart count after removal: 1
+[INFO ] 2025-04-22 01:15:59.760 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:15:59.879 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-22 01:15:59.973 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-22 01:16:00.073 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-22 01:16:00.655 [main] SwagLabs - Clicked continue on checkout page.
+[INFO ] 2025-04-22 01:16:00.771 [main] SwagLabs - Summary Total: Total: $32.39
+[INFO ] 2025-04-22 01:16:01.487 [main] SwagLabs - Finished order.
+[INFO ] 2025-04-22 01:16:01.523 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:16:01.563 [main] SwagLabs - Order completed successfully.
+[INFO ] 2025-04-22 01:16:03.103 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:18:02.997 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:18:03.068 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:18:03.073 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:18:05.726 [main] SwagLabs - Entered Username: standard_user
+[INFO ] 2025-04-22 01:18:05.856 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:18:06.859 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:18:06.873 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:18:07.649 [main] SwagLabs - Entered Username: locked_out_user
+[INFO ] 2025-04-22 01:18:07.732 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:18:07.808 [main] SwagLabs - Clicked on Login Button
+[WARN ] 2025-04-22 01:18:07.816 [main] SwagLabs - VerifyLogin - Failed
+[INFO ] 2025-04-22 01:18:08.018 [main] SwagLabs - Screenshot captured: C:\Users\shubh\eclipse-workspace\SwagLabs/Screenshots/verifyLogin_locked_out_user.png
+[INFO ] 2025-04-22 01:18:08.380 [main] SwagLabs - Entered Username: problem_user
+[INFO ] 2025-04-22 01:18:08.486 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:18:08.788 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:18:08.803 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:18:09.340 [main] SwagLabs - Entered Username: performance_glitch_user
+[INFO ] 2025-04-22 01:18:09.448 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:18:14.654 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:18:14.667 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:18:16.599 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:18:17.933 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:18:18.109 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:18:18.109 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:18:18.738 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:18:18.856 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:18:19.395 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:18:19.534 [main] SwagLabs - Verified all products are displayed.
+[INFO ] 2025-04-22 01:18:19.932 [main] SwagLabs - Added all products to cart.
+[INFO ] 2025-04-22 01:18:19.955 [main] SwagLabs - Total number of products available: 6
+[INFO ] 2025-04-22 01:18:19.987 [main] SwagLabs - Number of items added to cart: 6
+[INFO ] 2025-04-22 01:18:20.190 [main] SwagLabs - Navigated to Shopping Cart.
+[INFO ] 2025-04-22 01:18:20.550 [main] SwagLabs - Removed all products from cart.
+[INFO ] 2025-04-22 01:18:20.694 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-22 01:18:20.851 [main] SwagLabs - Added specific products (Backpack & Fleece Jacket).
+[INFO ] 2025-04-22 01:18:20.981 [main] SwagLabs - Navigated back to Shopping Cart.
+[INFO ] 2025-04-22 01:18:21.060 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:18:21.236 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:18:22.586 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:18:23.829 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:18:23.968 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:18:23.968 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:18:24.703 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:18:24.817 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:18:25.584 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:18:25.685 [main] SwagLabs - Displayed product list.
+[INFO ] 2025-04-22 01:18:25.916 [main] SwagLabs - Number of Items Added to Cart: 2
+[INFO ] 2025-04-22 01:18:26.184 [main] SwagLabs - Navigated to cart.
+[INFO ] 2025-04-22 01:18:26.290 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:18:26.317 [main] SwagLabs - Cart count after removal: 1
+[INFO ] 2025-04-22 01:18:26.492 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:18:26.576 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-22 01:18:26.648 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-22 01:18:26.720 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-22 01:18:26.912 [main] SwagLabs - Clicked continue on checkout page.
+[INFO ] 2025-04-22 01:18:26.985 [main] SwagLabs - Summary Total: Total: $32.39
+[INFO ] 2025-04-22 01:18:27.172 [main] SwagLabs - Finished order.
+[INFO ] 2025-04-22 01:18:27.203 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:18:27.226 [main] SwagLabs - Order completed successfully.
+[INFO ] 2025-04-22 01:18:28.597 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:19:24.702 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:19:24.780 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:19:24.786 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:19:26.408 [main] SwagLabs - Entered Username: standard_user
+[INFO ] 2025-04-22 01:19:26.488 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:19:27.040 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:19:27.052 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:19:27.485 [main] SwagLabs - Entered Username: locked_out_user
+[INFO ] 2025-04-22 01:19:27.568 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:19:27.644 [main] SwagLabs - Clicked on Login Button
+[WARN ] 2025-04-22 01:19:27.653 [main] SwagLabs - VerifyLogin - Failed
+[INFO ] 2025-04-22 01:19:27.855 [main] SwagLabs - Screenshot captured: C:\Users\shubh\eclipse-workspace\SwagLabs/Screenshots/verifyLogin_locked_out_user.png
+[INFO ] 2025-04-22 01:19:28.033 [main] SwagLabs - Entered Username: problem_user
+[INFO ] 2025-04-22 01:19:28.105 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:19:28.269 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:19:28.275 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:19:28.661 [main] SwagLabs - Entered Username: performance_glitch_user
+[INFO ] 2025-04-22 01:19:28.746 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:19:33.903 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:19:33.916 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:19:35.536 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:19:36.750 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:19:36.875 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:19:36.878 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:19:37.364 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:19:37.463 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:19:39.530 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:19:39.700 [main] SwagLabs - Verified all products are displayed.
+[INFO ] 2025-04-22 01:19:40.256 [main] SwagLabs - Added all products to cart.
+[INFO ] 2025-04-22 01:19:40.294 [main] SwagLabs - Total number of products available: 6
+[INFO ] 2025-04-22 01:19:40.341 [main] SwagLabs - Number of items added to cart: 6
+[INFO ] 2025-04-22 01:19:40.596 [main] SwagLabs - Navigated to Shopping Cart.
+[INFO ] 2025-04-22 01:19:41.095 [main] SwagLabs - Removed all products from cart.
+[INFO ] 2025-04-22 01:19:41.292 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-22 01:19:41.503 [main] SwagLabs - Added specific products (Backpack & Fleece Jacket).
+[INFO ] 2025-04-22 01:19:41.683 [main] SwagLabs - Navigated back to Shopping Cart.
+[INFO ] 2025-04-22 01:19:41.795 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:19:42.022 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:19:43.446 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:19:44.876 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:19:45.033 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:19:45.035 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:19:45.955 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:19:46.060 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:19:46.724 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:19:46.860 [main] SwagLabs - Displayed product list.
+[INFO ] 2025-04-22 01:19:47.132 [main] SwagLabs - Number of Items Added to Cart: 2
+[INFO ] 2025-04-22 01:19:47.377 [main] SwagLabs - Navigated to cart.
+[INFO ] 2025-04-22 01:19:47.487 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:19:47.517 [main] SwagLabs - Cart count after removal: 1
+[INFO ] 2025-04-22 01:19:47.779 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:19:47.893 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-22 01:19:47.986 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-22 01:19:48.083 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-22 01:19:48.312 [main] SwagLabs - Clicked continue on checkout page.
+[INFO ] 2025-04-22 01:19:48.412 [main] SwagLabs - Summary Total: Total: $32.39
+[INFO ] 2025-04-22 01:19:48.639 [main] SwagLabs - Finished order.
+[INFO ] 2025-04-22 01:19:48.678 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:19:48.708 [main] SwagLabs - Order completed successfully.
+[INFO ] 2025-04-22 01:19:49.564 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:22:46.886 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:22:46.949 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:22:46.956 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:22:49.468 [main] SwagLabs - Entered Username: standard_user
+[INFO ] 2025-04-22 01:22:49.614 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:22:52.382 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:22:52.394 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:22:52.984 [main] SwagLabs - Entered Username: locked_out_user
+[INFO ] 2025-04-22 01:22:53.107 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:22:53.214 [main] SwagLabs - Clicked on Login Button
+[WARN ] 2025-04-22 01:22:53.219 [main] SwagLabs - VerifyLogin - Failed
+[INFO ] 2025-04-22 01:22:53.528 [main] SwagLabs - Screenshot captured: C:\Users\shubh\eclipse-workspace\SwagLabs/Screenshots/verifyLogin_locked_out_user.png
+[INFO ] 2025-04-22 01:22:53.773 [main] SwagLabs - Entered Username: problem_user
+[INFO ] 2025-04-22 01:22:53.886 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:22:54.140 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:22:54.172 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:22:54.767 [main] SwagLabs - Entered Username: performance_glitch_user
+[INFO ] 2025-04-22 01:22:54.890 [main] SwagLabs - Entered Password: secret_sauce
+[INFO ] 2025-04-22 01:23:00.101 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:23:00.112 [main] SwagLabs - VerifyLogin - Passed
+[INFO ] 2025-04-22 01:23:01.838 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:23:03.314 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:23:03.477 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:23:03.477 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:23:04.162 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:23:04.278 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:23:06.568 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:23:06.737 [main] SwagLabs - Verified all products are displayed.
+[INFO ] 2025-04-22 01:23:07.291 [main] SwagLabs - Added all products to cart.
+[INFO ] 2025-04-22 01:23:07.322 [main] SwagLabs - Total number of products available: 6
+[INFO ] 2025-04-22 01:23:07.372 [main] SwagLabs - Number of items added to cart: 6
+[INFO ] 2025-04-22 01:23:07.689 [main] SwagLabs - Navigated to Shopping Cart.
+[INFO ] 2025-04-22 01:23:08.197 [main] SwagLabs - Removed all products from cart.
+[INFO ] 2025-04-22 01:23:08.419 [main] SwagLabs - Clicked on Continue Shopping Button
+[INFO ] 2025-04-22 01:23:08.644 [main] SwagLabs - Added specific products (Backpack & Fleece Jacket).
+[INFO ] 2025-04-22 01:23:08.822 [main] SwagLabs - Navigated back to Shopping Cart.
+[INFO ] 2025-04-22 01:23:08.932 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:23:09.223 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:23:10.699 [main] SwagLabs - Browser closed
+[INFO ] 2025-04-22 01:23:12.095 [main] SwagLabs - Edge browser launched
+[INFO ] 2025-04-22 01:23:12.234 [main] SwagLabs - Browser configured with implicit wait and maximized window
+[INFO ] 2025-04-22 01:23:12.239 [main] SwagLabs - Navigating to URL: https://www.saucedemo.com/v1/
+[INFO ] 2025-04-22 01:23:13.490 [main] SwagLabs - Entered username: standard_user
+[INFO ] 2025-04-22 01:23:13.601 [main] SwagLabs - Entered password secret_sauce
+[INFO ] 2025-04-22 01:23:14.789 [main] SwagLabs - Clicked on Login Button
+[INFO ] 2025-04-22 01:23:14.942 [main] SwagLabs - Displayed product list.
+[INFO ] 2025-04-22 01:23:15.264 [main] SwagLabs - Number of Items Added to Cart: 2
+[INFO ] 2025-04-22 01:23:15.533 [main] SwagLabs - Navigated to cart.
+[INFO ] 2025-04-22 01:23:15.644 [main] SwagLabs - Removed Fleece Jacket from cart.
+[INFO ] 2025-04-22 01:23:15.677 [main] SwagLabs - Cart count after removal: 1
+[INFO ] 2025-04-22 01:23:15.924 [main] SwagLabs - Proceeded to checkout.
+[INFO ] 2025-04-22 01:23:16.041 [main] SwagLabs - Entered First Name: Shubham
+[INFO ] 2025-04-22 01:23:16.140 [main] SwagLabs - Entered Last Name: Verma
+[INFO ] 2025-04-22 01:23:16.241 [main] SwagLabs - Entered ZIP Code: 500088
+[INFO ] 2025-04-22 01:23:16.487 [main] SwagLabs - Clicked continue on checkout page.
+[INFO ] 2025-04-22 01:23:16.572 [main] SwagLabs - Summary Total: Total: $32.39
+[INFO ] 2025-04-22 01:23:16.853 [main] SwagLabs - Finished order.
+[INFO ] 2025-04-22 01:23:16.891 [main] SwagLabs - Order Dispatch Message is Displayed
+[INFO ] 2025-04-22 01:23:16.921 [main] SwagLabs - Order completed successfully.
+[INFO ] 2025-04-22 01:23:18.321 [main] SwagLabs - Browser closed
